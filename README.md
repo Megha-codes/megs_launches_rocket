@@ -238,9 +238,3 @@ During training, the agent learns to control the rocket to achieve the specified
 - [Rocket-recycling with Reinforcement Learning](https://jiupinjia.github.io/rocket-recycling/)
 
 ---
-
-## Contact
-
-For questions or feedback, please contact:
-
-**Email**: [taherfattahi11@gmail.com](mailto:taherfattahi11@gmail.com)
